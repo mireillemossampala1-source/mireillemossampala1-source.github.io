@@ -12,7 +12,7 @@ If you're using version 1.5.2 code and would like a CDN link to the legacy asset
 > I'm busy centring the alphanum block and I realised that four of them use the wrong stroke endings. They aren't simple paths so need to be redrawn. I've done one for now
 > 
 > Status	codepoint	image
-> ✔	1f202	![flood](https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F202.svg)
+(https://raw.githubusercontent.com/mireillemossampala1-source/mireillemossampala1-source.github.io/refs/heads/main/Sans%20titre%2077_20260322090907.png)
 > ❌	1f523	![exhaust gases car](https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F523.svg)
 > ❌	3297	![atom bomb](https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/3297.svg)
 > ❌	3299	![person with dog](https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/3299.svg)
